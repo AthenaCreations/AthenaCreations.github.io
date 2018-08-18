@@ -1,12 +1,13 @@
 {
-  "main.css": "static/css/main.3b8bd9e5.css",
-  "main.css.map": "static/css/main.3b8bd9e5.css.map",
-  "main.js": "static/js/main.1ceeedf1.js",
-  "main.js.map": "static/js/main.1ceeedf1.js.map",
+  "main.css": "static/css/main.3eb9703c.css",
+  "main.css.map": "static/css/main.3eb9703c.css.map",
+  "main.js": "static/js/main.8e6b79a8.js",
+  "main.js.map": "static/js/main.8e6b79a8.js.map",
   "static\\media\\empDirect.png": "static/media/empDirect.db9cf1e2.png",
+  "static\\media\\header.png": "static/media/header.00e822a1.png",
   "static\\media\\photoGallery.png": "static/media/photoGallery.5adb4a1c.png",
   "static\\media\\regForm.png": "static/media/regForm.e81d3ae1.png",
   "static\\media\\styleGuide.png": "static/media/styleGuide.15cced1e.png",
-  "static\\media\\webAppDash.png": "static/media/webAppDash.5a00f7e9.png",
-  "static\\media\\wordGame.png": "static/media/wordGame.a231d239.png"
+  "static\\media\\webAppDash.png": "static/media/webAppDash.4d3dfb88.png",
+  "static\\media\\wordGame.png": "static/media/wordGame.865bde3d.png"
 }
