@@ -1,0 +1,43 @@
+{
+  "homepage": "https://athenaozanich.com",
+  "name": "athena-creations",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.2",
+    "mysql": "^2.16.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "gh-pages": "^1.2.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AthenaCreations/AthenaCreations.github.io.git"
+  },
+  "author": "Athena Ozanich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AthenaCreations.github.io/issues"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
