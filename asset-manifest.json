@@ -1,0 +1,21 @@
+{
+  "main.css": "/static/css/main.c6286e4f.chunk.css",
+  "main.js": "/static/js/main.9108c10b.chunk.js",
+  "main.js.map": "/static/js/main.9108c10b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.32a6884b.chunk.js": "/static/js/2.32a6884b.chunk.js",
+  "static/js/2.32a6884b.chunk.js.map": "/static/js/2.32a6884b.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.ed4624e8c6e31052256ea123fe3e55fa.js": "/precache-manifest.ed4624e8c6e31052256ea123fe3e55fa.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.c6286e4f.chunk.css.map": "/static/css/main.c6286e4f.chunk.css.map",
+  "static/media/App.css": "/static/media/planet-mountains.bd923ed5.jpg",
+  "static/media/empDirect.png": "/static/media/empDirect.4b2e3d02.png",
+  "static/media/photoGallery.png": "/static/media/photoGallery.60b1b1ef.png",
+  "static/media/profile.jpg": "/static/media/profile.d7034ee9.jpg",
+  "static/media/regForm.png": "/static/media/regForm.a9aa6e7e.png",
+  "static/media/styleGuide.png": "/static/media/styleGuide.f3587b12.png",
+  "static/media/webAppDash.png": "/static/media/webAppDash.92316b78.png",
+  "static/media/wordGame.png": "/static/media/wordGame.3c3eea37.png"
+}
